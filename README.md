@@ -13,7 +13,7 @@ Let's assume that you want open specific port of your server to specific Users o
 <li>On Project folder run: `npm install`</li>
 <li>(Optional) For final usage you can install `pm2` that is used for nodejs process management</li>
 <li>(Optional) Modify index.js and change 2 parameters at the begining</li>
-<li>Open incoming calls to port 1034 (or whatever you set at previous step) on your firewall ([this way](#open-firewall-port))</li>
+<li>Open incoming calls to port 1034 (or whatever you set at previous step) on your firewall (<a href="#open-firewall-port">this way</a>)</li>
 </ul>
 
 ## Usage
@@ -42,4 +42,5 @@ and restart CSF firewall for the changes to take into effect:
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
 
