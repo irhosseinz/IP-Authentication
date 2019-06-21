@@ -1,0 +1,17 @@
+{
+  "name": "sandbad_ping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hossein Zare",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "fs": "0.0.1-security",
+    "increase-memory-limit": "^1.0.6",
+    "jalali-date": "^0.1.5"
+  }
+}

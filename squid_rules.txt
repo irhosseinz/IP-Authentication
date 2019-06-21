@@ -1,0 +1,153 @@
+
+#USER282#
+acl user282ip src 46.100.131.215
+http_access allow user282ip
+#END
+#USER174#
+acl user174ip src 2.183.170.220
+http_access allow user174ip
+#END
+#USER97#
+acl user97ip src 109.125.135.120
+http_access allow user97ip
+#END
+#USER427#
+acl user427ip src 37.63.194.199
+http_access allow user427ip
+#END
+#USER175#
+acl user175ip src 79.127.102.63
+http_access allow user175ip
+#END
+#USER428#
+acl user428ip src 2.185.135.75
+http_access allow user428ip
+#END
+#USER417#
+acl user417ip src 31.14.80.120
+http_access allow user417ip
+#END
+#USER48#
+acl user48ip src 109.125.163.35
+http_access allow user48ip
+#END
+#USER306#
+acl user306ip src 31.59.86.151
+http_access allow user306ip
+#END
+#USER429#
+acl user429ip src 157.97.123.93
+http_access allow user429ip
+#END
+#USER340#
+acl user340ip src 185.165.241.97
+http_access allow user340ip
+#END
+#USER394#
+acl user394ip src 37.63.130.202
+http_access allow user394ip
+#END
+#USER430#
+acl user430ip src 5.115.44.162
+http_access allow user430ip
+#END
+#USER431#
+acl user431ip src 77.81.36.93
+http_access allow user431ip
+#END
+#USER421#
+acl user421ip src 5.233.239.108
+http_access allow user421ip
+#END
+#USER432#
+acl user432ip src 188.211.138.94
+http_access allow user432ip
+#END
+#USER92#
+acl user92ip src 5.78.44.197
+http_access allow user92ip
+#END
+#USER434#
+acl user434ip src 5.125.152.241
+http_access allow user434ip
+#END
+#USER435#
+acl user435ip src 95.82.36.142
+http_access allow user435ip
+#END
+#USER253#
+acl user253ip src 178.239.155.127
+http_access allow user253ip
+#END
+#USER400#
+acl user400ip src 37.202.147.89
+http_access allow user400ip
+#END
+#USER177#
+acl user177ip src 151.232.226.200
+http_access allow user177ip
+#END
+#USER440#
+acl user440ip src 5.211.114.249
+http_access allow user440ip
+#END
+#USER439#
+acl user439ip src 2.191.163.95
+http_access allow user439ip
+#END
+#USER113#
+acl user113ip src 5.202.5.38
+http_access allow user113ip
+#END
+#USER172#
+acl user172ip src 46.209.54.144
+http_access allow user172ip
+#END
+#USER3#
+acl user3ip src 2.183.125.123
+http_access allow user3ip
+#END
+#USER445#
+acl user445ip src 185.165.242.145
+http_access allow user445ip
+#END
+#USER446#
+acl user446ip src 185.191.207.36
+http_access allow user446ip
+#END
+#USER234#
+acl user234ip src 181.215.110.152
+http_access allow user234ip
+#END
+#USER451#
+acl user451ip src 85.203.13.33
+http_access allow user451ip
+#END
+#USER360#
+acl user360ip src 31.58.242.51
+http_access allow user360ip
+#END
+#USER88#
+acl user88ip src 5.209.2.57
+http_access allow user88ip
+#END
+#USER457#
+acl user457ip src 5.113.117.69
+http_access allow user457ip
+#END
+#USER459#
+acl user459ip src 80.210.239.14
+http_access allow user459ip
+#END
+#USER460#
+acl user460ip src 5.232.85.71
+http_access allow user460ip
+#END
+#USER458#
+acl user458ip src 2.182.116.76
+http_access allow user458ip
+#END
+#USER461#
+acl user461ip src 5.232.109.65
+http_access allow user461ip
+#END
