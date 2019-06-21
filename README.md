@@ -6,6 +6,8 @@
 ## Challenge
 Let's assume that you want open specific port of your server to specific Users of your project (dynamically), in this case you can run this app on your server and command it to unblock an Ip whenever you want.
 
+❔️ For example you have a service running on your server, and because you can't add authentication to it you can handle users access to that service using firewall
+
 ## Requirements
 <ul>
 <li>You need a linux server with <a target="_blank" href="https://configserver.com/cp/csf.html">CSF FIREWALL</a> Installed.</li>
