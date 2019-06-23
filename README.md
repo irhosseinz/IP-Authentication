@@ -4,9 +4,9 @@
 </p>
 
 ## Challenge
-Let's assume that you want open specific port of your server to specific Users of your project (dynamically), in this case you can run this app on your server and command it to unblock an Ip whenever you want.
+Let's assume that you want to open specific port of your server to specific Users (of your project) (dynamically), in this case you can run this app on your server and using its API command it to unblock an Ip whenever you want.
 
-❔️ For example you have a service running on your server, and because you can't add authentication to it you can handle users access to that service using firewall
+❔️ For example you have a service running on your server, and because you can't add authentication to it, so you can handle users access to that service using this APP
 
 ## Requirements
 <ul>
