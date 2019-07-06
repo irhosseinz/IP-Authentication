@@ -4,7 +4,7 @@
 </p>
 
 ## Challenge
-Let's assume that you want to open specific port of your server to specific Users (of your project) (dynamically), in this case you can run this app on your server and using its API command it to unblock an Ip whenever you want.
+Let's assume that you want to add ip authentication to a service on your server, you can handle this by opening specific port of your server to specific IPs, in this case you can run this app on your server and using its API, command it to unblock (& or block) an IP whenever you want.
 
 ❔️ For example you have a service running on your server (for example a proxy-server), and because you can't add ip authentication to it, so you can handle users access to that service using this APP
 
